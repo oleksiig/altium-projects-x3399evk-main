@@ -1,0 +1,8 @@
+*.zip
+*.log
+*.txt
+*.pdf
+*.exe
+*.jpg
+History/*
+__Previews/*
