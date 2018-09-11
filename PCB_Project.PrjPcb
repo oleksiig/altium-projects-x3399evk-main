@@ -38,6 +38,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=sensors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=20
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SQTVKJID
+
+[Document2]
 DocumentPath=audio.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QEECHHFS
 
-[Document2]
+[Document3]
 DocumentPath=connectivity.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PXBHJKLX
 
-[Document3]
+[Document4]
 DocumentPath=..\..\libs\sch\Connectors\TestPoint.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IXOSOUID
 
-[Document4]
+[Document5]
 DocumentPath=..\..\libs\sch\Connectors\USB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ADWHQKMY
 
-[Document5]
+[Document6]
 DocumentPath=..\..\libs\sch\Connectors\uSD.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -120,9 +137,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GFOETMNY
+DocumentUniqueId=SAVXXMGS
 
-[Document6]
+[Document7]
 DocumentPath=..\..\libs\sch\General\capacitors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -137,9 +154,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TLTTUHFM
+DocumentUniqueId=CHUJVKLF
 
-[Document7]
+[Document8]
 DocumentPath=..\..\libs\sch\General\diodes.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TSPLPGNW
 
-[Document8]
+[Document9]
 DocumentPath=..\..\libs\sch\General\inductors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -171,9 +188,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CCQLMGDG
+DocumentUniqueId=WYRDYSHI
 
-[Document9]
+[Document10]
 DocumentPath=..\..\libs\sch\General\leds.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VKRWYERR
 
-[Document10]
+[Document11]
 DocumentPath=..\..\libs\sch\General\resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VYDFOKTN
 
-[Document11]
+[Document12]
 DocumentPath=..\..\libs\sch\General\xtal.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LVAJNDRO
 
-[Document12]
+[Document13]
 DocumentPath=..\..\libs\sch\ICs\Power\ACS7xx.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -239,9 +256,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LHDYUKRX
+DocumentUniqueId=UYJEAQFH
 
-[Document13]
+[Document14]
 DocumentPath=..\..\libs\sch\ICs\Power\TPS53127.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=INHVTDYK
 
-[Document14]
+[Document15]
 DocumentPath=..\..\libs\sch\ICs\Power\TPS54232.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -273,9 +290,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YPHENQNC
+DocumentUniqueId=NUHSOQYI
 
-[Document15]
+[Document16]
 DocumentPath=..\..\libs\sch\ICs\Power\USBLC6-2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MJDUVXAO
 
-[Document16]
+[Document17]
 DocumentPath=..\..\libs\sch\Transistors\IRFH7911.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -307,9 +324,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YUYVDNNU
+DocumentUniqueId=PBWLFTNQ
 
-[Document17]
+[Document18]
 DocumentPath=..\..\libs\sch\ICs\ADC\PCM1808.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ABDOKQIF
 
-[Document18]
+[Document19]
 DocumentPath=..\..\libs\sch\ICs\OpAmp\OPA172.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMYVLNQE
 
-[Document19]
+[Document20]
 DocumentPath=..\..\libs\sch\Modules\NEO-M8.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFMHVFIS
 
-[Document20]
+[Document21]
 DocumentPath=..\..\libs\sch\Modules\X3399-CORE.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ICAIUMPB
 
-[Document21]
+[Document22]
 DocumentPath=..\..\libs\sch\Buttons\SW-TACT-2PIN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QRUTHJOG
 
-[Document22]
+[Document23]
 DocumentPath=..\..\libs\sch\ICs\Interfaces\ADV7180.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -409,9 +426,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HITXFYPW
+DocumentUniqueId=YTXYQQOU
 
-[Document23]
+[Document24]
 DocumentPath=..\..\libs\sch\Transistors\BIPOLAR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KJREVFOJ
 
-[Document24]
+[Document25]
 DocumentPath=..\..\libs\sch\Transistors\MOSFET.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JCFDPFTF
 
-[Document25]
+[Document26]
 DocumentPath=..\..\libs\sch\ICs\Interfaces\CP2102.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NIIMIXUA
 
-[Document26]
+[Document27]
 DocumentPath=..\..\libs\sch\ICs\Power\STMPS21x1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NLBLNLRW
 
-[Document27]
+[Document28]
 DocumentPath=..\..\libs\external\STMicroelectronics\STMicroelectronics STM32 F1.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document29]
 DocumentPath=..\..\libs\sch\ICs\Interfaces\SN65DSI83.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KACICXMX
 
-[Document29]
+[Document30]
 DocumentPath=..\..\libs\sch\ICs\Interfaces\TPD12S016PWR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MDSUJOIH
 
-[Document30]
+[Document31]
 DocumentPath=..\..\libs\sch\ICs\Power\TLV733P.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OMDCFBCE
 
-[Document31]
+[Document32]
 DocumentPath=..\..\libs\sch\ICs\Interfaces\PCA9306.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KEOIMFBW
 
-[Document32]
+[Document33]
 DocumentPath=..\..\libs\sch\ICs\Interfaces\SN74AVCxTx45.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVLYDGIQ
 
-[Document33]
+[Document34]
 DocumentPath=..\..\libs\sch\ICs\Interfaces\SN74AVC4T774.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WLUVRFYN
 
-[Document34]
+[Document35]
 DocumentPath=..\..\libs\sch\ICs\Other\ESD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QAFUOIVH
 
-[Document35]
+[Document36]
 DocumentPath=..\..\libs\pcb\Modules\X3399.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +649,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=INWWOMYF
 
-[Document36]
+[Document37]
 DocumentPath=..\..\libs\sch\ICs\Sensors\LSM9DS0.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +666,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ANOINWVF
 
-[Document37]
+[Document38]
 DocumentPath=..\..\libs\sch\Modules\WL18xxMOD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +683,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBFIONGV
 
-[Document38]
+[Document39]
 DocumentPath=..\..\libs\sch\General\encoders.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MAAUKEOS
 
-[Document39]
+[Document40]
 DocumentPath=usb.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WLJLYSKI
 
-[Document40]
+[Document41]
 DocumentPath=..\..\libs\sch\Connectors\HDMI_DP.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IJSHOTFJ
 
-[Document41]
+[Document42]
 DocumentPath=..\..\libs\sch\ICs\Other\TPA6138A2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MBWILLQV
 
-[Document42]
+[Document43]
 DocumentPath=..\..\libs\sch\ICs\Power\TUSB319.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JKLHOSSI
 
-[Document43]
+[Document44]
 DocumentPath=..\..\libs\sch\Connectors\Jack_ST-09G-0.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -766,9 +783,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RBKTMCDI
+DocumentUniqueId=PTAIUONK
 
-[Document44]
+[Document45]
 DocumentPath=..\..\libs\sch\Connectors\PowerJack.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WUGHCKNC
 
-[Document45]
+[Document46]
 DocumentPath=..\..\libs\pcb\Connectors\JACK.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SXUDXWNE
 
-[Document46]
+[Document47]
 DocumentPath=..\..\libs\sch\ICs\Interfaces\ADV7280.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +836,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GUIJANMW
 
-[Document47]
+[Document48]
 DocumentPath=..\..\libs\pcb\SC70.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,7 +853,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XDGATVQY
 
-[Document48]
+[Document49]
 DocumentPath=..\..\libs\pcb\SSOP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -853,7 +870,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NEBTEBMW
 
-[Document49]
+[Document50]
 DocumentPath=..\..\libs\pcb\PQFN-20.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -870,7 +887,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MKCGYNXF
 
-[Document50]
+[Document51]
 DocumentPath=..\..\libs\sch\ICs\RF\Si473x.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -887,7 +904,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLJCWQKJ
 
-[Document51]
+[Document52]
 DocumentPath=..\..\libs\pcb\Connectors\USB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -904,7 +921,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EBQOGNBO
 
-[Document52]
+[Document53]
 DocumentPath=..\..\libs\sch\Connectors\RCA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -921,7 +938,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WTFCIPEY
 
-[Document53]
+[Document54]
 DocumentPath=..\..\libs\sch\Connectors\HDR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -938,7 +955,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FLNRDPJH
 
-[Document54]
+[Document55]
 DocumentPath=..\..\libs\sch\Connectors\DGxxx.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -953,9 +970,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QDFHOJDT
+DocumentUniqueId=BILLFFQM
 
-[Document55]
+[Document56]
 DocumentPath=..\..\libs\pcb\SOT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -972,7 +989,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HKHATRFO
 
-[Document56]
+[Document57]
 DocumentPath=debug.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -989,7 +1006,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TKPHRTLF
 
-[Document57]
+[Document58]
 DocumentPath=hdmi.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1006,7 +1023,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOXCUXXV
 
-[Document58]
+[Document59]
 DocumentPath=power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1023,7 +1040,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UILARRJB
 
-[Document59]
+[Document60]
 DocumentPath=x3399.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1040,7 +1057,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SURLGQDJ
 
-[Document60]
+[Document61]
 DocumentPath=PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1057,7 +1074,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IBDDTXKN
 
-[Document61]
+[Document62]
 DocumentPath=..\..\libs\sch\ICs\DAC\TLV320AIC23.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1072,7 +1089,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DAJKJLFY
 
 [SearchPath1]
 Path=..\..\libs\pcb\*.*
